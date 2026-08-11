@@ -1,6 +1,6 @@
-# Hello, World!  
+# 👋 Hello, World!  
 # Welcome To My Profile  
-## 👋 About Me
+## 👨‍💻 About Me
 - 🤵 I'm Shakib Ansari this is my profile.
 - 📈 Aspiring Data Analyst
 - 💡 I enjoy turning raw data into meaningful insights through dashboards and analysis.
