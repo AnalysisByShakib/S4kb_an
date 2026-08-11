@@ -1,10 +1,10 @@
 # 👋 Hello, World!  
-# Welcome to Shakib's profile.
+# Welcome to Shakib's Data Portfolio.
 ## 👨‍💻 About Me
 - 🤵 I'm Shakib Ansari this is my profile.
 - 📈 Aspiring Data Analyst
 - 💡 I enjoy turning raw data into meaningful insights through dashboards and analysis.
-- 🎯 Goal: Secure a Data Analyst role and continuously improve my skills.
+- 🎯 Goal: Secure a Data Analyst role to work on real business problem and continuously improve my skills.
 ---
 ## 🛠️ Tech Stack 
 - SQL 
